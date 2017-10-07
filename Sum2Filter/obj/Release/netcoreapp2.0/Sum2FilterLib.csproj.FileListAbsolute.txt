@@ -1,0 +1,8 @@
+C:\projects\C#\Coursera\algorithms-graphs-data-structures\week4\Sum2Filter\bin\Release\netcoreapp2.0\Sum2FilterLib.deps.json
+C:\projects\C#\Coursera\algorithms-graphs-data-structures\week4\Sum2Filter\bin\Release\netcoreapp2.0\Sum2FilterLib.dll
+C:\projects\C#\Coursera\algorithms-graphs-data-structures\week4\Sum2Filter\bin\Release\netcoreapp2.0\Sum2FilterLib.pdb
+C:\projects\C#\Coursera\algorithms-graphs-data-structures\week4\Sum2Filter\obj\Release\netcoreapp2.0\Sum2FilterLib.csproj.CoreCompileInputs.cache
+C:\projects\C#\Coursera\algorithms-graphs-data-structures\week4\Sum2Filter\obj\Release\netcoreapp2.0\Sum2FilterLib.AssemblyInfoInputs.cache
+C:\projects\C#\Coursera\algorithms-graphs-data-structures\week4\Sum2Filter\obj\Release\netcoreapp2.0\Sum2FilterLib.AssemblyInfo.cs
+C:\projects\C#\Coursera\algorithms-graphs-data-structures\week4\Sum2Filter\obj\Release\netcoreapp2.0\Sum2FilterLib.dll
+C:\projects\C#\Coursera\algorithms-graphs-data-structures\week4\Sum2Filter\obj\Release\netcoreapp2.0\Sum2FilterLib.pdb

@@ -1,0 +1,13 @@
+C:\projects\C#\Coursera\algorithms-graphs-data-structures\week4\Sum-2\bin\Debug\netcoreapp2.0\Sum-2.deps.json
+C:\projects\C#\Coursera\algorithms-graphs-data-structures\week4\Sum-2\bin\Debug\netcoreapp2.0\Sum-2.runtimeconfig.json
+C:\projects\C#\Coursera\algorithms-graphs-data-structures\week4\Sum-2\bin\Debug\netcoreapp2.0\Sum-2.runtimeconfig.dev.json
+C:\projects\C#\Coursera\algorithms-graphs-data-structures\week4\Sum-2\bin\Debug\netcoreapp2.0\Sum-2.dll
+C:\projects\C#\Coursera\algorithms-graphs-data-structures\week4\Sum-2\bin\Debug\netcoreapp2.0\Sum-2.pdb
+C:\projects\C#\Coursera\algorithms-graphs-data-structures\week4\Sum-2\obj\Debug\netcoreapp2.0\Sum-2.csprojResolveAssemblyReference.cache
+C:\projects\C#\Coursera\algorithms-graphs-data-structures\week4\Sum-2\obj\Debug\netcoreapp2.0\Sum-2.csproj.CoreCompileInputs.cache
+C:\projects\C#\Coursera\algorithms-graphs-data-structures\week4\Sum-2\obj\Debug\netcoreapp2.0\Sum-2.AssemblyInfoInputs.cache
+C:\projects\C#\Coursera\algorithms-graphs-data-structures\week4\Sum-2\obj\Debug\netcoreapp2.0\Sum-2.AssemblyInfo.cs
+C:\projects\C#\Coursera\algorithms-graphs-data-structures\week4\Sum-2\obj\Debug\netcoreapp2.0\Sum-2.dll
+C:\projects\C#\Coursera\algorithms-graphs-data-structures\week4\Sum-2\obj\Debug\netcoreapp2.0\Sum-2.pdb
+C:\projects\C#\Coursera\algorithms-graphs-data-structures\week4\Sum-2\bin\Debug\netcoreapp2.0\Sum2FilterLib.dll
+C:\projects\C#\Coursera\algorithms-graphs-data-structures\week4\Sum-2\bin\Debug\netcoreapp2.0\Sum2FilterLib.pdb

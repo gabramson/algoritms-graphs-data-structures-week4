@@ -1,0 +1,16 @@
+C:\projects\C#\Coursera\algorithms-graphs-data-structures\week4\Sum-2Test\obj\Debug\netcoreapp2.0\Sum-2Test.csprojResolveAssemblyReference.cache
+C:\projects\C#\Coursera\algorithms-graphs-data-structures\week4\Sum-2Test\obj\Debug\netcoreapp2.0\Sum-2Test.csproj.CoreCompileInputs.cache
+C:\projects\C#\Coursera\algorithms-graphs-data-structures\week4\Sum-2Test\obj\Debug\netcoreapp2.0\Sum-2Test.AssemblyInfoInputs.cache
+C:\projects\C#\Coursera\algorithms-graphs-data-structures\week4\Sum-2Test\obj\Debug\netcoreapp2.0\Sum-2Test.AssemblyInfo.cs
+C:\projects\C#\Coursera\algorithms-graphs-data-structures\week4\Sum-2Test\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\projects\C#\Coursera\algorithms-graphs-data-structures\week4\Sum-2Test\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\projects\C#\Coursera\algorithms-graphs-data-structures\week4\Sum-2Test\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\projects\C#\Coursera\algorithms-graphs-data-structures\week4\Sum-2Test\bin\Debug\netcoreapp2.0\Sum-2Test.deps.json
+C:\projects\C#\Coursera\algorithms-graphs-data-structures\week4\Sum-2Test\bin\Debug\netcoreapp2.0\Sum-2Test.runtimeconfig.json
+C:\projects\C#\Coursera\algorithms-graphs-data-structures\week4\Sum-2Test\bin\Debug\netcoreapp2.0\Sum-2Test.runtimeconfig.dev.json
+C:\projects\C#\Coursera\algorithms-graphs-data-structures\week4\Sum-2Test\bin\Debug\netcoreapp2.0\Sum-2Test.dll
+C:\projects\C#\Coursera\algorithms-graphs-data-structures\week4\Sum-2Test\bin\Debug\netcoreapp2.0\Sum-2Test.pdb
+C:\projects\C#\Coursera\algorithms-graphs-data-structures\week4\Sum-2Test\bin\Debug\netcoreapp2.0\Sum2FilterLib.dll
+C:\projects\C#\Coursera\algorithms-graphs-data-structures\week4\Sum-2Test\bin\Debug\netcoreapp2.0\Sum2FilterLib.pdb
+C:\projects\C#\Coursera\algorithms-graphs-data-structures\week4\Sum-2Test\obj\Debug\netcoreapp2.0\Sum-2Test.dll
+C:\projects\C#\Coursera\algorithms-graphs-data-structures\week4\Sum-2Test\obj\Debug\netcoreapp2.0\Sum-2Test.pdb
